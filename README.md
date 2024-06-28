@@ -9,7 +9,7 @@ Commitizen PT-BR é um adaptador customizado para o Commitizen que fornece promp
 Clone este repositório para um diretório acessível:
 
 ```bash
-git clone https://github.com/seu-usuario/cz-pt-br.git
+git clone https://github.com/eriktilio/cz-pt-br
 ```
 
 ### Passo 2: Configuração Global

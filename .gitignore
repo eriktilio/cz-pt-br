@@ -1,0 +1,42 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Diretórios do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de log
+logs/
+*.log
+
+# Arquivos temporários do sistema operacional
+*.swp
+*.swo
+*.tmp
+
+# Pastas de IDEs
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos de ambiente
+.env
+
+# Cobertura de teste
+coverage/
+
+# Construção e artefatos de produção
+dist/
+build/
+
+# Outras configurações e caches
+.cache/
+.history/
+
+# Arquivos pessoais
+*.local
